@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "18th-Century Estate",
+    "image": "/img/img1.png",
+    "price": 4300000,
+    "location": "Mogliano Veneto, Italy",
+    "key_features": [
+      "18th-century estate",
+      "Villa with apartments, a museum, and sculptures",
+      "Works by Italian sculptor Toni Benetton",
+      "Classic 18th-century architecture"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "16th-Century Palazzo",
+    "image": "/img/img2.jpg",
+    "price": 9800000,
+    "location": "Venice, Italy",
+    "key_features": [
+      "16th-century palazzo",
+      "Located in Cannaregio District",
+      "Combines Renaissance architecture with modern amenities"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "18th-Century Castle",
+    "image": "/img/img3.jpg",
+    "price": 2600000,
+    "location": "Conegliano, Italy",
+    "key_features": [
+      "18th-century castle",
+      "Extensive accommodations",
+      "Includes gym, wine cellar, and panoramic views",
+      "Reflects 18th-century castle architecture"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Country Estate in Padua",
+    "image": "/img/img4.png",
+    "price": 3000000,
+    "location": "Torreglia, Padua, Italy",
+    "key_features": [
+      "Country estate",
+      "Two houses with equestrian facilities",
+      "Proximity to Euganean Hills regional park",
+      "Blend of rural charm and historical architecture"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Loft Apartment in Giudecca",
+    "image": "/img/img5.png",
+    "price": 2300000,
+    "location": "Giudecca Island, Venice, Italy",
+    "key_features": [
+      "Loft apartment in a historic building",
+      "Industrial style design",
+      "Large terrace with scenic views",
+      "Located on Giudecca Island"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Traditional Tuscan Villa",
+    "image": "/img/img6.jpg",
+    "price": 5000000,
+    "location": "Tuscany, Italy",
+    "key_features": [
+      "Traditional Tuscan villa",
+      "Surrounded by vineyards and olive groves",
+      "Includes a private chapel and pool",
+      "Renovated with modern amenities"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Antebellum Mansion",
+    "image": "/img/img7.jpg",
+    "price": 12000000,
+    "location": "Charleston, South Carolina, USA",
+    "key_features": [
+      "Antebellum mansion",
+      "Waterfront location",
+      "Original 19th-century features",
+      "Extensive gardens and historic charm"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Georgian Townhouse",
+    "image": "/img/img8.jpg",
+    "price": 3800000,
+    "location": "Edinburgh, Scotland",
+    "key_features": [
+      "Georgian townhouse",
+      "Located in Edinburgh's historic center",
+      "Restored period details",
+      "Spacious living areas with modern upgrades"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Historic Chateau",
+    "image": "/img/img9.jpg",
+    "price": 6500000,
+    "location": "Bordeaux, France",
+    "key_features": [
+      "Historic chateau",
+      "Set amidst vineyards",
+      "Includes wine production facilities",
+      "Lavishly renovated interiors"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "16th-Century Andalusian Estate",
+    "image": "/img/img10.png",
+    "price": 7000000,
+    "location": "Seville, Spain",
+    "key_features": [
+      "16th-century Andalusian estate",
+      "Traditional courtyards and fountains",
+      "Renovated with modern facilities",
+      "Perfect for events or luxury stays"
+    ]
+  }
+]
